@@ -1,5 +1,3 @@
-# ATA_Quad
-Quadcopter built by our team for crop monitoring missions. 
 # ATA-RG (Aeronautics and Thermofluids Applied - Research Group)
 ## _Quadcopter for Smart Farming Applications, Implementation_
 
